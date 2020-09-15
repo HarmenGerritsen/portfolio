@@ -1,0 +1,33 @@
+.container {
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+    opacity: 80%;
+    margin-top: 755px;
+    margin-left: 100px;
+    padding: 100px;
+    float: right;
+    font-family: Consolas, monospace;
+}
+.container2 {
+    height: 755px;
+    width: 100px;
+    background-color: gray;
+    float: left;
+    position: fixed;
+    font-family: Consolas, monospace;
+    padding-top: 50px;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    text-align: left;
+    margin: 10px 10px 10px -20px;
+}
+body {
+    background-image: url("https://cdn.website.thryv.com/419fe221991040738e2193333cba6619/dms3rep/multi/808.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
