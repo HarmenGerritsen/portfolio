@@ -1,12 +1,10 @@
 h1 {
     float: right;
-    font-family: Consolas, monospace;
     margin: 300px 20%;
     color: #1d1d1d;
     -webkit-text-stroke: 0.5px #393939;
 }
 a:link, a:visited {
-    font-family: Consolas, monospace;
     color: #1d1d1d;
     text-decoration: none;
     float: right;
@@ -22,7 +20,6 @@ a:link, a:visited {
     margin-left: 100px;
     padding: 100px;
     float: right;
-    font-family: Consolas, monospace;
 }
 .container2 {
     height: 755px;
@@ -30,7 +27,6 @@ a:link, a:visited {
     background-color: gray;
     float: left;
     position: fixed;
-    font-family: Consolas, monospace;
     padding-top: 50px;
 }
 ul {
@@ -46,4 +42,5 @@ body {
     background-size: 100% 755px;
     margin: 0;
     position: absolute;
+    font-family: Consolas, monospace;
 }
